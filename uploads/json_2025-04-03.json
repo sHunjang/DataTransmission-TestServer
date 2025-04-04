@@ -1,0 +1,9 @@
+{
+  "power": "on",
+  "device": "Radar-12X",
+  "location": {
+    "latitude": 37.5665,
+    "longitude": 126.978
+  },
+  "lastChecked": "2025-04-03T14:30:00"
+}
